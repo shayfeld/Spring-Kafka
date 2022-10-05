@@ -35,6 +35,7 @@ Go to the project directory
 Install Kafka and run it
 
 ```bash
+  Docker-compose rm -svf
   Docker compose up
 ```
 
