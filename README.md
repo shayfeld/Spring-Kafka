@@ -38,6 +38,12 @@ Install Kafka and run it
   Docker compose up
 ```
 
+Install dependency
+
+```bash
+  mvn compile
+```
+
 Build the application
 
 ```bash
